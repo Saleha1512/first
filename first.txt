@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 50px;
+        }
+        img {
+            border-radius: 50%;
+            width: 150px;
+        }
+        .card {
+            width: 300px;
+            margin: auto;
+            padding: 20px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            border-radius: 15px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="card">
+    <img src="https://via.placeholder.com/150" alt="My Photo">
+    <h1>Saleha Shaik</h1>
+    <p>Follow me on <a href="https://github.com/YOUR_USERNAME" target="_blank">GitHub</a></p>
+</div>
+
+</body>
+</html>
